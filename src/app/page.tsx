@@ -337,7 +337,7 @@ export default function Home() {
       {/* Pricing */}
       <section id="pricing" className="py-14 bg-gray-50">
         <SectionHeading
-          title={<>Choose the plans that's<br />perfect for your business.</>}
+          title={<>Choose the plans that&apos;s<br />perfect for your business.</>}
           subtitle="Donec ligula ligula, porta at urna non, faucibus congue urna. Nullam nulla purus, facilisis vitae odio ac, tempus aliquet dolor."
         />
         <div className="mt-10 container mx-auto max-w-6xl px-4">
