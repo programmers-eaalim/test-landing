@@ -31,6 +31,7 @@ const features: Feature[] = [
     description: "Hadith Range 7",
     icon: "Feature Icon (2).svg",
   },
+  
   {
     title: "Faith",
     description: "Hadith Range 5",
